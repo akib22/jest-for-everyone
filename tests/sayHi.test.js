@@ -1,4 +1,4 @@
-const sayHi = require('../sayHi.js');
+const sayHi = require('../src/sayHi.js');
 
 test('should say hi to John', () => {
     const result = sayHi('John');
